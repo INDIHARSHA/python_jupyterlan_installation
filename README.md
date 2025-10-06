@@ -1,4 +1,4 @@
-# python_jupyterlan_installation
+# python_jupyterlab_installation
 Tutorial to install jupyterlab on windows through pip
 1 make sure you have python installed on win
 2 create a folder to install jupyterlab ex pytemp
